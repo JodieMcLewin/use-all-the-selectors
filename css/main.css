@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #f2f1ed;
-  font-family: "Georgia", sans-serif;
+  font-family: Georgia, sans-serif;
   line-height: 1.5;
 }
 
@@ -28,7 +28,7 @@ nav ul {
 }
 
 .wrapper {
-  background-color: #eee8d5
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types {
